@@ -1,0 +1,28 @@
+# Credenciales (NUNCA subir)
+.env
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Salidas y checkpoints del notebook
+checkpoints/
+.ipynb_checkpoints/
+datalake/bronze/stream/**/_spark_metadata/
+datalake/bronze/
+datalake/silver/
+datalake/gold/
+final/datalake/bronze/
+final/datalake/silver/
+final/datalake/gold/
+final/checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+debug*.log
+
+# Archivos locales de referencia (no van al repo)
+Segundo parcial*.pdf
+Clase_*.pdf
+.engram/
