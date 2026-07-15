@@ -12,5 +12,5 @@
 - Si el stream falla al re-ejecutar en Colab, limpio carpeta de salida y checkpoint (`rm -rf`).
 - **Astra UNKNOWN_TABLE_COLUMNS**: `drop_table` + `create_table` (no `if_not_exists`) — tabla vieja tenía 5 columnas.
 - **Astra TableInsertManyException**: `insert_many(..., ordered=True, concurrency=1)`; borrar collection homónima si existe.
-- **Astra DataAPITimeoutException**: insertar en lotes de 10 filas con reintento (timeout 30s de astrapy).
+- **Astra DataAPITimeoutException / 503**: reintento en creación de tabla y en insert; lotes de 10 filas (timeout 30s de astrapy; 503 si el cluster free estaba dormido).
 - Notebook en tono estudiante: bloque markdown breve (≤3 líneas) antes de cada celda de código; lógica lineal por capas.
