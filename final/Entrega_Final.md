@@ -1,4 +1,4 @@
-# Entrega Final — Cloud Provider Analytics
+# Entrega Final — Minería de Datos II
 **Minería de Datos II · ISTEA · Primer Cuatrimestre 2026**
 
 **Equipo:** Lucas Dugo, Cristian Lo Giudice, Rodolfo Berrone, Santiago Ham Saguier, Andrea Romeo  

@@ -1,4 +1,4 @@
-# Segundo Parcial — Cloud Provider Analytics
+# Segundo Parcial — Minería de Datos II
 
 Notebook y CQL del segundo parcial. Pipeline batch + streaming hasta una tabla gold en Astra.
 
