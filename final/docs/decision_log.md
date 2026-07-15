@@ -1,6 +1,12 @@
 # Apuntes de decisiones — Entrega Final Minería de Datos II
 
-**Equipo:** Lucas Dugo, Cristian Lo Giudice, Rodolfo Berrone, Santiago Ham Saguier, Andrea Romeo.
+## Equipo
+
+- Lucas Dugo
+- Cristian Lo Giudice
+- Rodolfo Berrone
+- Santiago Ham Saguier
+- Andrea Romeo
 
 ## Cómo armamos el pipeline
 

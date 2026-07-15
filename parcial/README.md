@@ -1,5 +1,13 @@
 # Segundo Parcial — Minería de Datos II
 
+## Equipo
+
+- Lucas Dugo
+- Cristian Lo Giudice
+- Rodolfo Berrone
+- Santiago Ham Saguier
+- Andrea Romeo
+
 Notebook y CQL del segundo parcial. Pipeline batch + streaming hasta una tabla gold en Astra.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javi2481/mineria-ii-parcial-final/blob/main/parcial/parcial2_colab.ipynb)

@@ -1,5 +1,13 @@
 # Minería de Datos II
 
+## Equipo
+
+- Lucas Dugo
+- Cristian Lo Giudice
+- Rodolfo Berrone
+- Santiago Ham Saguier
+- Andrea Romeo
+
 Repo con el **segundo parcial** y el **examen final**.
 Los datos van de landing a bronze, silver y gold; al final cargamos tablas en Astra (`default_keyspace`).
 
@@ -112,13 +120,3 @@ En Colab hay que cargar el Application Token del cluster que toque en cada secre
 |---|---|
 | [`scripts/generar_evidencias_final.py`](scripts/generar_evidencias_final.py) | Regenerar capturas en `final/evidencias/` |
 | [`scripts/run_pipeline_gold_local.py`](scripts/run_pipeline_gold_local.py) | Correr pipeline gold en local (sin Colab) |
-
----
-
-## Equipo
-
-- Lucas Dugo
-- Cristian Lo Giudice
-- Rodolfo Berrone
-- Santiago Ham Saguier
-- Andrea Romeo

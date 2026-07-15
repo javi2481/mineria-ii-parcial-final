@@ -1,7 +1,14 @@
 # Entrega Final — Minería de Datos II
 **Minería de Datos II · ISTEA · Primer Cuatrimestre 2026**
 
-**Equipo:** Lucas Dugo, Cristian Lo Giudice, Rodolfo Berrone, Santiago Ham Saguier, Andrea Romeo  
+## Equipo
+
+- Lucas Dugo
+- Cristian Lo Giudice
+- Rodolfo Berrone
+- Santiago Ham Saguier
+- Andrea Romeo
+
 **Repo:** https://github.com/javi2481/mineria-ii-parcial-final  
 **Notebook:** `final/final_colab.ipynb` (PySpark en Google Colab)  
 **Astra:** cluster `db_final_istea`, keyspace `default_keyspace`, secret `ASTRA_TOKEN_FINAL`

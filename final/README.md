@@ -1,5 +1,13 @@
 # Examen Final
 
+## Equipo
+
+- Lucas Dugo
+- Cristian Lo Giudice
+- Rodolfo Berrone
+- Santiago Ham Saguier
+- Andrea Romeo
+
 Carpeta con la entrega del examen final: notebook, documentación, CQL, evidencias y archivos de presentación.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javi2481/mineria-ii-parcial-final/blob/main/final/final_colab.ipynb)

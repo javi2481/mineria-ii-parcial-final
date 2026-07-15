@@ -1,6 +1,12 @@
 # Apuntes de decisiones — Segundo Parcial Minería de Datos II
 
-**Equipo:** Lucas Dugo, Cristian Lo Giudice, Rodolfo Berrone, Santiago Ham Saguier, Andrea Romeo.
+## Equipo
+
+- Lucas Dugo
+- Cristian Lo Giudice
+- Rodolfo Berrone
+- Santiago Ham Saguier
+- Andrea Romeo
 
 - **Batch** para los 3 CSV maestros; **streaming** para los JSONL de eventos (lo pide el parcial).
 - Esquemas **a mano** (`StructType`), sin `inferSchema`.
