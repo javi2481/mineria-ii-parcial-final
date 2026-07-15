@@ -1,4 +1,4 @@
-# Examen Final — Cloud Provider Analytics
+# Examen Final
 
 Carpeta con la entrega del examen final: notebook, documentación, CQL, evidencias y archivos de presentación.
 
